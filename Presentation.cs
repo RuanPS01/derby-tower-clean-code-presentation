@@ -13,6 +13,28 @@
 
 // ꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜ
 
+
+///
+///  
+///     O que vamos fazer:
+///     
+///     - quem sou eu
+///     - nivelamento de conhecimento
+///     - demonstração do projeto base
+///     - código limpo no c# para o Unity
+///     - boas práticas no projeto base
+///     - exemplos ruins num projeto exemplo
+///     - recomendação final
+/// 
+///     
+/// 
+/// 
+///
+
+
+// ꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜ
+
+
 ///
 ///  
 ///     Quem sou eu:
@@ -34,6 +56,20 @@
 ///         #FullStack
 ///         #LT
 ///         
+
+
+// ꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜ
+
+
+
+/// 
+///     Recomendações finais:
+///     - siga padroes
+///     - faça soluções estupidamente simples
+///     - deixe a casa mais limpa do que 
+///       quando encontrou
+///     - solucione um problema na causa raiz
+///
 
 
 // ꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜꜜ
