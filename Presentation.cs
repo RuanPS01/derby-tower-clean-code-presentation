@@ -49,7 +49,7 @@
 ///         #IC
 ///         #4i
 ///         #GameLab
-///         #Exsto / Nouven / TooDoo / Scoder
+///         #Exsto / Nouvenn / TooDoo / Scoder
 ///         #Free - Nowigo / Exsto
 ///         #AR-VR-MR
 ///         #Frontend
