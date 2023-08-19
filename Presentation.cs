@@ -23,7 +23,7 @@
 ///     - demonstração do projeto base
 ///     - código limpo no c# para o Unity
 ///     - boas práticas no projeto base
-///     - exemplos ruins num projeto exemplo
+///     - casos ruins num projeto exemplo
 ///     - recomendação final
 /// 
 ///     
