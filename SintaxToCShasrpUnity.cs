@@ -47,7 +47,7 @@ public string tName;
 
 
 
-#region legíveis
+#region variáveis legíveis
 
 // Do
 public int movementSpeed;
@@ -77,7 +77,7 @@ public int getMovementSpeed;
 
 public int movementSpeed; // Public variable, Camel Case
 private int _movementSpeed; // Private variable, Camel Case with optional '_' at the start
-public int Movement Speed { get; set; } // Property, Pascal Case
+public Transform Speed { get; set; } // Property, Pascal Case
 private const int MovementSpeed = 10; // Constant, Pascal Case
 
 #endregion
