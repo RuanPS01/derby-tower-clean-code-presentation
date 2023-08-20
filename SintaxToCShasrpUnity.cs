@@ -1,3 +1,4 @@
+
 ///
 ///  
 ///   Limpando a nossa sintaxe e
@@ -7,6 +8,9 @@
 /// 
 /// 
 /// por Ruan Patrick
+
+
+
 
 
 #region identação

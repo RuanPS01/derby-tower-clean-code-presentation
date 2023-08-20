@@ -1,7 +1,6 @@
 ﻿///
 ///  
-///     Clean Code com Unity
-///     com Ruan Patrick de Souza
+///     Clean Code no Unity
 ///    
 /// 
 ///     Material de apoio: 
